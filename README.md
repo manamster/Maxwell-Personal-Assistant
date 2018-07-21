@@ -8,3 +8,4 @@ pip3 install winspeech
 pip3 install SpeechRecognition
 pip3 install PyAudio
 Those are all the commands you need
+Some of the code for Maxwell is based on the course in this video https://youtu.be/1o_CX6gS0xQ
